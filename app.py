@@ -1,7 +1,4 @@
-<<<<<<< HEAD:sine.py
 
-=======
->>>>>>> 38c7650 (change project strcu):app.py
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
