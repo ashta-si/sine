@@ -38,5 +38,5 @@ while animate and frame < 200:  # Limit frames to prevent freezing
     plot_area.pyplot(fig)
     plt.close(fig)
 
-    time.sleep(0.1)  # ⬅️ Reduce CPU usage
+    #time.sleep(0.1)  # ⬅️ Reduce CPU usage
     frame += 1
